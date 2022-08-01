@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dapper_Demo_Api", "Dapper_Demo\Dapper_Demo_Api.csproj", "{6A8D2E2C-8BDB-433B-A476-23737936A119}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dapper_Model", "Dapper_Model\Dapper_Model.csproj", "{94A14AF1-C936-4469-B0BA-8B2020460FF1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dapper_Repo", "Dapper_Repo\Dapper_Repo.csproj", "{D8CFB9DF-CD68-4CF2-BB57-0A7C0815C86E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dapper_Business_Logic", "Dapper_Business_Logic\Dapper_Business_Logic.csproj", "{14A5E13F-5A76-43D2-B47A-68690A3FDC2D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dapper_Demo_Web", "Dapper_Demo_Web\Dapper_Demo_Web.csproj", "{632DD99B-660E-4352-92EB-B8A31BA3802C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Admin_Panel", "Admin_Panal\Admin_Panel.csproj", "{4E4C07CA-501E-43C3-80A2-D2D7B07BF3FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A8D2E2C-8BDB-433B-A476-23737936A119}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A8D2E2C-8BDB-433B-A476-23737936A119}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A8D2E2C-8BDB-433B-A476-23737936A119}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A8D2E2C-8BDB-433B-A476-23737936A119}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94A14AF1-C936-4469-B0BA-8B2020460FF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94A14AF1-C936-4469-B0BA-8B2020460FF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94A14AF1-C936-4469-B0BA-8B2020460FF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94A14AF1-C936-4469-B0BA-8B2020460FF1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8CFB9DF-CD68-4CF2-BB57-0A7C0815C86E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8CFB9DF-CD68-4CF2-BB57-0A7C0815C86E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8CFB9DF-CD68-4CF2-BB57-0A7C0815C86E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8CFB9DF-CD68-4CF2-BB57-0A7C0815C86E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14A5E13F-5A76-43D2-B47A-68690A3FDC2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14A5E13F-5A76-43D2-B47A-68690A3FDC2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14A5E13F-5A76-43D2-B47A-68690A3FDC2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14A5E13F-5A76-43D2-B47A-68690A3FDC2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{632DD99B-660E-4352-92EB-B8A31BA3802C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{632DD99B-660E-4352-92EB-B8A31BA3802C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{632DD99B-660E-4352-92EB-B8A31BA3802C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{632DD99B-660E-4352-92EB-B8A31BA3802C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E4C07CA-501E-43C3-80A2-D2D7B07BF3FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E4C07CA-501E-43C3-80A2-D2D7B07BF3FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E4C07CA-501E-43C3-80A2-D2D7B07BF3FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E4C07CA-501E-43C3-80A2-D2D7B07BF3FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ACD50EEF-241F-4971-90BA-5573BD77F488}
+	EndGlobalSection
+EndGlobal
